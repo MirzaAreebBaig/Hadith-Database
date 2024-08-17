@@ -1,8 +1,6 @@
 # Hadith-Database
 <h1>All Hadith's Database</h1>
-<p>Dataset for your Islamic model</p>
-<p>Great for all sorts of Model Trainings</p>
-<p>Data published in SQL & CSV format</p>
+<p>Dataset for your Islamic model | Great for all sorts of Model Trainings | Data published in SQL & CSV format</p>
 <p>Pre-Trained Model to be published soon...</p>
 <p>Data includes all hadiths from the below given books individually & all combined together</p>
 
